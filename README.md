@@ -1,4 +1,4 @@
-# vzs5.github.io
+# Moja Strona
 
 **Marcel "vzs" Kazimierski**
 
